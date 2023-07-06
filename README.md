@@ -18,12 +18,5 @@
 ##
 <a href="https://github.com/jvolive/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvolive&layout=compact&theme=tokyonight&hide_border=true" /></a>
 
-
 ##
 
-<div> 
-  <a href = "mailto:joaooliveira1999@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/jvoliveira-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  
-  </div> 
