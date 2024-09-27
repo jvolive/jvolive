@@ -1,4 +1,5 @@
-## Olá, eu sou o João!
+## Hello, my name is João
+I am student the Software Engineering
 
 <div align="center">
   <a href="[https://github.com/jvolive]">
