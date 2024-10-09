@@ -1,5 +1,9 @@
-## Hello, my name is João
-I am student the Software Engineering
+## Olá, meu nome é João
+Sou desenvolvedor Full Stack em C# trabalhando com .NET, ASP.NET e também com TypeScript com ReactJS.
+
+Tenho experiência na área de automação industrial no setor de papel e celulose e sou formado em tecnólogo em automação industrial. Nesse período usei LADDER e C++ para o desenvolvimento das atividades.
+Na área de tecnologia tenho experiência com C#, TypeScript, PostgreSQL, usando frameworks como .NET e React para atuar em projetos pessoais e também profissionais. Estou cursando engenharia de software para me aprimorar ainda mais na área.
+Meu objetivo é continuar aprimorando minhas competências técnicas e aplicá-las em projetos cativantes e desafiadores, que possam contribuir para a inovação e a solução de problemas na área de desenvolvimento.
 
 <div align="center">
   <a href="[https://github.com/jvolive]">
