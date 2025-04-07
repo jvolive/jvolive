@@ -6,7 +6,6 @@ Estudante de Engenharia de software com interesse em Desenvolvimento de Software
 
 Dart | Flutter | TypeScript | React | ReactNative | HTML/CSS | SQL | Git e GitHub | APIs REST | Lógica de Programação
 
-Interesse em Mobile e Web
 
 <div align="center">
   <a href="[https://github.com/jvolive]">
