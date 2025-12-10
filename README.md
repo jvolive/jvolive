@@ -22,7 +22,4 @@ Dart | Flutter | TypeScript | React | ReactNative | HTML/CSS | SQL | Git e GitHu
 </div>
 
 ##
-<a href="https://github.com/jvolive/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvolive&layout=compact&theme=tokyonight&hide_border=true" /></a>
-
-##
 
